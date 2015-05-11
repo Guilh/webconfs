@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>WebConfs - A blog about web conferences</title>
+    <description>A blog about my favorite web conferences.</description>
+    <link>http://webconfs.me/</link>
+    <atom:link href="http://webconfs.me/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Mon, 11 May 2015 10:12:44 -0400</pubDate>
+    <lastBuildDate>Mon, 11 May 2015 10:12:44 -0400</lastBuildDate>
+    <generator>Jekyll v2.5.3</generator>
+    
+      <item>
+        <title>Treehouse Meetups</title>
+        <description>&lt;p&gt;This is a post about all the awesome Treehouse meetups out there!&lt;/p&gt;
+</description>
+        <pubDate>Wed, 29 Apr 2015 18:34:34 -0400</pubDate>
+        <link>http://webconfs.me/treehouse-meetups</link>
+        <guid isPermaLink="true">http://webconfs.me/treehouse-meetups</guid>
+        
+        
+        <category>meetups</category>
+        
+      </item>
+    
+      <item>
+        <title>Camp Sass</title>
+        <description>&lt;p&gt;Camp Sass is a one-day, one-track Sass conference held in Atlanta, GA. It’s hosted by Hampton Catlin, the inventor of Sass!&lt;/p&gt;
+
+&lt;p&gt;At this year’s conference, I had lots of fun, learned a ton, and met many talented web designers and developers.&lt;/p&gt;
+</description>
+        <pubDate>Wed, 29 Apr 2015 05:45:36 -0400</pubDate>
+        <link>http://webconfs.me/welcome-to-jekyll</link>
+        <guid isPermaLink="true">http://webconfs.me/welcome-to-jekyll</guid>
+        
+        
+        <category>conferences</category>
+        
+      </item>
+    
+      <item>
+        <title>SassConf</title>
+        <description>&lt;p&gt;SassConf is an awesome conference for front-end developers and designers who love Sass and are passionate about building a better, more beautiful web.&lt;/p&gt;
+
+&lt;p&gt;This year, the conference is in Austin, Texas!&lt;/p&gt;
+</description>
+        <pubDate>Sat, 25 Apr 2015 00:00:00 -0400</pubDate>
+        <link>http://webconfs.me/sass-conf</link>
+        <guid isPermaLink="true">http://webconfs.me/sass-conf</guid>
+        
+        
+        <category>conferences</category>
+        
+      </item>
+    
+      <item>
+        <title>CSS Summit</title>
+        <description>&lt;p&gt;&lt;a href=&quot;http://environmentsforhumans.com/2015/css-summit/&quot;&gt;CSS Summit&lt;/a&gt; brings together some of the web’s most notable experts for an all-new, three-day online conference. This year’s event includes a live CSS and Sass conference, as well as an SVG, Sass, and advanced CSS track.&lt;/p&gt;
+
+&lt;p&gt;I’m also speaking about Sass on day two!&lt;/p&gt;
+</description>
+        <pubDate>Wed, 15 Apr 2015 00:00:00 -0400</pubDate>
+        <link>http://webconfs.me/css-summit</link>
+        <guid isPermaLink="true">http://webconfs.me/css-summit</guid>
+        
+        
+        <category>conferences</category>
+        
+      </item>
+    
+      <item>
+        <title>Front-end Design Conf</title>
+        <description>&lt;p&gt;&lt;a href=&quot;http://frontenddesignconference.com/&quot;&gt;Front-End Design Conference&lt;/a&gt; is an awesome conference for web professionals who love their community, the web, and learning. It’s a 2-day conference held every year in St. Petersburg, Fl.  This year’s list of speakers is impressive. Some of them are Chris Coyier, James White, Sophie Shepherd, and more!&lt;/p&gt;
+
+&lt;p&gt;The day before the main conference, they’re also running several full-day workshops on web animation, SMACSS, and frontend tooling.&lt;/p&gt;
+</description>
+        <pubDate>Fri, 10 Apr 2015 00:00:00 -0400</pubDate>
+        <link>http://webconfs.me/front-end-conf</link>
+        <guid isPermaLink="true">http://webconfs.me/front-end-conf</guid>
+        
+        
+        <category>conferences</category>
+        
+      </item>
+    
+      <item>
+        <title>Converge</title>
+        <description>&lt;p&gt;Converge assembles some of the best speakers in the industry to inform and inspire you! It’s for the love of the web and the love of our community. This year’s event includes a full schedule of keynotes, sessions, and workshops.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://convergese.com/&quot;&gt;Check it out!&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Fri, 10 Apr 2015 00:00:00 -0400</pubDate>
+        <link>http://webconfs.me/converge</link>
+        <guid isPermaLink="true">http://webconfs.me/converge</guid>
+        
+        
+        <category>conferences</category>
+        
+      </item>
+    
+  </channel>
+</rss>
